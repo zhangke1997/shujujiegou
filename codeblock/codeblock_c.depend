@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568520187 source:d:\codeblock_c\main.c
+	<stdio.h>
+	"stack_three.h"
+
+1568519902 d:\codeblock_c\stack_three.h
+	<stdio.h>
+	<stdlib.h>
+
+1568519902 d:\codeblock_c\include\stack_three.h
+	<stdio.h>
+	<stdlib.h>
+
